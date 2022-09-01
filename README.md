@@ -10,7 +10,8 @@ project
 +-- bitburner (git clone `https://github.com/danielyxie/bitburner/tree/master`)
 +-- code
 |   +-- package.json
-|   +-- src
+|   +-- src (source directory)
+|   +-- dist (compile directory)
 |   +-- etc*
 ```
 
