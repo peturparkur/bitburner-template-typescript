@@ -1,0 +1,16 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tsc -w",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts"
+}
